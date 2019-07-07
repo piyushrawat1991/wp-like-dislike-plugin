@@ -4,7 +4,7 @@ Donate link: https://www.paypal.me/piyushrawat1991
 Tags: like dislike posts, posts, counter
 Requires at least: 4.6
 Requires PHP: 5.2.4
-Tested up to: 4.9
+Tested up to: 5.2
 Stable tag: 1.0
 License: GPLv2 or later
 
